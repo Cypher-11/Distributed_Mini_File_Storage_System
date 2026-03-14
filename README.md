@@ -1,6 +1,6 @@
 # Distributed File Storage
 
-Project Fluffy is an open-source, scalable, decentralized, robust, heterogeneous file storage solution which ensures that multiple servers can inter-operate to form a dynamic ‘overlay’ fabric.
+This Project is a scalable, decentralized, robust, heterogeneous file storage solution which ensures that multiple servers can inter-operate to form a dynamic ‘overlay’ fabric.
 The system supports some important design aspects such as -
 - Language Agnostic
 - System failure & recovery
@@ -30,12 +30,6 @@ This system allows many clients to have access to data and supports operations (
 ### Architecture Diagram
 
 ![Link to Architecture Diagram](images/ArchitectureDiagram.png)
-
-****************************************************************************************************************
-
-### Technology Stack
-
-![Link to Technology Stack Diagram](images/TechStack.png)
 
 ****************************************************************************************************************
 
